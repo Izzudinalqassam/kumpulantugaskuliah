@@ -6,7 +6,7 @@
     <title>Data Registrasi</title>
 </head>
 <body>
-    <!-- kepala -->
+<!--  header        -->
     <h1>DATA REGISTRASI</h1>
     <HR></HR>
     <!-- php -->
