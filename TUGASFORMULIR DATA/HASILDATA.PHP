@@ -6,7 +6,12 @@
     <title>Data Registrasi</title>
 </head>
 <body>
+<<<<<<< HEAD
+    <!-- kepala -->
+    <h1>tugas webpro</h1>
+=======
 <!--  header        -->
+>>>>>>> 838d3c40a836788f31eab349613f40218d3a417f
     <h1>DATA REGISTRASI</h1>
     <HR></HR>
     <!-- php -->
